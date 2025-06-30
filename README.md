@@ -21,23 +21,23 @@ This repository contains my solutions to the Backend Development and APIs projec
 
 1. **Timestamp Microservice**
    - Converts between Unix timestamps and natural language dates
-   - [View Code](/boilerplate-project-timestamp/)
+   - [View Code](/timestamp-microservice/)
 
 2. **Request Header Parser Microservice**
    - Returns client's IP address, language, and software information
-   - [View Code](/boilerplate-project-headerparser/)
+   - [View Code](/header-parser/)
 
 3. **URL Shortener Microservice**
    - Shortens long URLs and redirects to original URLs
-   - [View Code](/boilerplate-project-urlshortener/)
+   - [View Code](/url-shortener/)
 
 4. **Exercise Tracker**
    - Tracks users' exercise routines with a MongoDB database
-   - [View Code](/boilerplate-project-exercisetracker/)
+   - [View Code](/exercise-tracker/)
 
 5. **File Metadata Microservice**
    - Returns metadata about uploaded files
-   - [View Code](/boilerplate-project-filemetadata/)
+   - [View Code](/file-metadata/)
 
 ## 💻 Technologies Used
 
@@ -65,7 +65,7 @@ This repository contains my solutions to the Backend Development and APIs projec
 
 2. Navigate to a project directory:
    ```bash
-   cd boilerplate-project-exercisetracker  # Example project
+   cd exercise-tracker  # Example project
    ```
 
 3. Install dependencies:
