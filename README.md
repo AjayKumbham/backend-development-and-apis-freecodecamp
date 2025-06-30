@@ -14,9 +14,6 @@ This repository contains my solutions to the Backend Development and APIs projec
 - [Technologies Used](#-technologies-used)
 - [Getting Started](#-getting-started)
 - [Project Details](#-project-details)
-- [API Documentation](#-api-documentation)
-- [Testing](#-testing)
-- [Deployment](#-deployment)
 - [License](#-license)
 - [Acknowledgments](#-acknowledgments)
 
@@ -144,38 +141,6 @@ This repository contains my solutions to the Backend Development and APIs projec
   - Handles file uploads
   - Returns file metadata
   - Supports drag and drop
-
-## 🧪 Testing
-
-Each project includes test files that can be run using:
-
-```bash
-npm test
-```
-
-## 🚀 Deployment
-
-### Option 1: Render (Recommended)
-1. Push your code to a GitHub repository
-2. Create a new Web Service on Render
-3. Connect your repository
-4. Set environment variables
-5. Deploy!
-
-### Option 2: Heroku
-```bash
-# Login to Heroku
-heroku login
-
-# Create a new app
-heroku create your-app-name
-
-# Set environment variables
-heroku config:set NODE_ENV=production
-
-# Deploy
-git push heroku main
-```
 
 ## 📝 License
 
