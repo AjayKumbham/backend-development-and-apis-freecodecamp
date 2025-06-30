@@ -60,7 +60,7 @@ This repository contains my solutions to the Backend Development and APIs projec
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/backend-development-and-apis-freecodecamp.git
-   cd backend-development-and-apis-freecodecamp
+   cd backend-and-apis-freecodecamp
    ```
 
 2. Navigate to a project directory:
