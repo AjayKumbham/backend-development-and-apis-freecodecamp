@@ -43,9 +43,6 @@ This repository contains my solutions to the Backend Development and APIs projec
 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose ODM
-- **Authentication**: Basic HTTP, JWT
-- **Testing**: Chai, Mocha
-- **Deployment**: Render, Heroku
 - **Version Control**: Git, GitHub
 - **Package Manager**: npm
 - **Other Tools**: Postman, MongoDB Atlas
@@ -156,5 +153,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>Developed with ❤️ as part of the FreeCodeCamp Back End Development and APIs Certification</p>
-  <p>© 2023 Your Name. All rights reserved.</p>
 </div>
